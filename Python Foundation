@@ -1,0 +1,36 @@
+<python基础>
+  是一种面向对象(OOP)的解释型计算机程序设计语言。
+python创世：
+  释义：蟒蛇
+  爸爸：Guido van Rossum 吉多(龟叔)荷兰人
+  时间：1989年，圣诞节期间;第一个公开发行版发行于1991年。
+  命名：源于一个喜剧团MontyPython
+python特点：
+  简洁易读：零基础入门编程首选语言。
+  强制空格缩进：对编程格式的严格要求符合编程理念。
+  胶水语言：丰富强大的库支持，可混合编程。
+  The Zen of Python：‘There should be one-- and preferably only one --obvious way to do it!’
+  免费、开源：Python是FLOSS之一。
+  符合时下需求：爬虫、大数据、科学计算、算法研究、机器学习、深度学习、人工智能...
+python缺点：
+  速度：仅仅与C/C++相比执行速度不够快
+python安装：
+  官网：www.python.org 安装python
+python运行：
+  1.(终端下)：$python3 hello.py
+  2.交互模式：
+    在终端输入python3进入交互模式
+    >>>print('hello,world')
+交互模式退出：
+    1.ctrl + d
+    2.>>> quit()
+    3.>>> exit()
+python注释：
+  写代码过程中，#号开头，直到行尾，为注释内容，注释内容不参加解释执行
+python程序：
+  第一个python程序：
+·#! /usr/bin/python3
+·$ chmod u+x hello.py
+·print('hello world')
+
+##说明：此系列基于python3.65
