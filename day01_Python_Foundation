@@ -29,8 +29,8 @@ python注释：
   写代码过程中，#号开头，直到行尾，为注释内容，注释内容不参加解释执行
 python程序：
   第一个python程序：
-·#! /usr/bin/python3
-·$ chmod u+x hello.py
+·# -*- coding: utf-8 -*-
+·from __future__ import unicode_literals
 ·print('hello world')
 
 ##说明：此系列基于python3.65
